@@ -8,5 +8,6 @@
     * Building out my 'Business-Analytics' portfolio.
     * Looking for opportunities to collaborate on data-driven projects.
     
+
     ### 📫 How to reach me:
-    https://www.linkedin.com/in/zafarimam-businessanalytics
+* [LinkedIn](https://www.linkedin.com/in/zafarimam-businessanalytics)
