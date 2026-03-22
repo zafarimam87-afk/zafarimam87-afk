@@ -1,1 +1,12 @@
-# Hi there! 👋 I am a Graduate Student at Montclair State University focusing on Business Analytics, Data Visualization, and Predictive Modeling.
+
+    
+    ### 🛠️ My Tech Stack
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    ![SQL](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+    ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+    
+    ### 🔭 Currently Working On...
+    * Deepening my knowledge in **Predictive Modeling** algorithms.
+    * Building out my `Business-Analytics` portfolio.
+    * Looking for opportunities to collaborate on data-driven projects.
+    
